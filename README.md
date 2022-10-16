@@ -9,6 +9,7 @@ I'm Davyd Moraes, I'm a software developer since 2018.
 - 📫 You can reach me through [E-mail](mailto:dev.davydmoraes@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?phone=5527992054819&text=Ol%C3%A1%2C%20encontrei%20seu%20contato%20no%20seu%20GitHub.).
 - 😄 Pronouns: he/him.
 - 🤓 I'm an [INTP](https://www.16personalities.com/intp-personality), 5w6.
+- ⚡ Fun fact: my favorite animal is the racoon.
 
 ## 🔧 Skills and Technologies
 
